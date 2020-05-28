@@ -1,0 +1,5 @@
+Título de mi documento
+======================
+
+Esto es contenido en Sphinx *negrita*, y puedo ir escribiendo aquí mis apuntes personales.
+
